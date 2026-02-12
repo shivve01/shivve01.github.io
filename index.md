@@ -1,60 +1,61 @@
 ---
 layout: default
-title: Portfolio.exe
+title: [ROOT@SHIVVE ~]#
 ---
 
-# > WHOAMI
-**Cyber Security Enthusiast | CEH v12 Candidate | Linux Power User**
+# 🟢 0x00: WHOAMI
+**Cyber Security Enthusiast | Ethical Hacker | CEH v12 Candidate**
 
-[LinkedIn](Your-Link) | [GitHub](Your-Link) | [TryHackMe](Your-Link) | [Email](mailto:your@email.com)
+> "The quieter you become, the more you are able to hear."
+
+[LinkedIn](Your-Link) | [GitHub](https://github.com/shivve01) | [TryHackMe](Your-Link) | [Email](mailto:your@email.com)
 
 ---
 
 ## 🟢 0x01: Introduction & Summary
-An aspiring Security Analyst with a "break-fix" mindset. I spend my time navigating terminal screens and documenting vulnerabilities. Currently executing a 2-week intensive sprint to master network security fundamentals and exploit frameworks.
+Aspiring Security Analyst with a focus on penetration testing and vulnerability assessment. Currently executing a dedicated 2-week intensive study plan on network security and ethical hacking.
 
 ## 🟢 0x02: About Me
-I don't just use tools; I seek to understand the logic behind the exploit. My focus lies in **Penetration Testing** and **System Hardening**. I am currently honing my skills to contribute to the security team at **Kubotor Infotech**.
+I am a technical problem-solver passionate about securing the digital landscape. I specialize in the Linux environment and enjoy deconstructing complex systems.
 
 ## 🟢 0x03: Skills & Technologies
 * **Offensive:** Nmap, Metasploit, Burp Suite Professional, SQLMap, Hydra.
-* **Defensive:** Wireshark, Snort, Basic Firewall Configuration.
-* **Environment:** Kali Linux, Parrot OS, Bash Scripting, Python (Exploit Dev).
-* **Web:** WordPress Customization, SQL, HTML/CSS.
+* **Defensive:** Wireshark, Snort, Network Monitoring.
+* **General:** Linux Command Line (CLI), Bash Scripting, Python, WordPress Development.
 
 ## 🟢 0x04: Projects
-### **Project: [ENCRYPTED] - Burp Suite Mastery Series**
-* Developing 3 TryHackMe rooms designed to teach the Proxy, Repeater, and Intruder modules.
-### **Vulnerability Assessment Lab**
-* Simulated DoS and SQL Injection attacks in a controlled environment to test mitigation strategies.
+### **TryHackMe Room Development: Burp Suite Series**
+* **Status:** In Progress
+* Developing a 3-part educational module on TryHackMe covering Proxy setup and Intruder modules.
 
-## 🟢 0x05: Experience (Internships & Work)
-* **Career Objective:** Actively seeking an internship/Junior Role at **Kubotor Infotech**.
-* **Continuous Assessment (Dec 2025):** Successfully completed practical modules in Footprinting, Scanning, and Enumeration.
+### **Vulnerability Assessment Lab**
+* Simulated DoS attacks and SQL injections to test mitigation strategies (Dec 2025).
+
+## 🟢 0x05: Experience
+* **Career Goal:** Actively training for a Security Analyst role at **Kubotor Infotech**.
+* **Academic:** Completed Continuous Assessment in Practical Security including Footprinting and Enumeration.
 
 ## 🟢 0x06: Certifications & Courses
-* **CEH v12 (Candidate):** Actively mapping labs to official EC-Council modules.
+* **CEH v12 (Candidate):** Mapping labs to official EC-Council modules.
 * **TryHackMe:** Completed Junior Penetration Tester & Pre-Security paths.
 
 ## 🟢 0x07: Competitive Programming & Hackathons
-* **TryHackMe:** Ranked in the top [X]% of hackers globally.
-* **CTF Events:** [Insert any local or online CTFs here].
+* **TryHackMe:** Active participant with consistent progress tracking.
 
 ## 🟢 0x08: Open-Source Contributions
-* Maintaining a repository of custom Bash scripts for automated reconnaissance.
+* Maintaining a repository of automated recon scripts (GitHub).
 
 ## 🟢 0x09: Blog & Technical Writing
-* *Write-up:* "Bypassing WAFs via Misconfiguration" (Sucuri Case Study).
+* **Case Study:** "WAF Misconfiguration & Bypass Techniques."
 
 ## 🟢 0x0A: Research & Publications
-* [Currently researching automated vulnerability scanning in WordPress environments].
+* [Inquiry into automated WordPress vulnerability scanning].
 
 ## 🟢 0x0B: Contact Section
-* **IP Address:** [Localhost]
-* **Email:** [yourname@email.com]
-* **Status:** Listening on Port 443...
+* **Location:** Sahibzada Ajit Singh Nagar, Punjab
+* **Signal:** [yourname@email.com]
 
 ---
 
 ## 📂 0x0C: Downloadable Resume
-> [Click Here to Download Resume.pdf](./resume.pdf)
+> **[Download Resume.pdf](./resume.pdf)**
